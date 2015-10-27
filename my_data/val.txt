@@ -1,0 +1,4 @@
+/Speech_1.jpg 0
+/Speech_2.jpg 0
+/Speech_3.jpg 0
+/Speech_4.jpg 0
