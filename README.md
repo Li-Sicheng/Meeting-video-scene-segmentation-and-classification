@@ -1,5 +1,6 @@
 # Meeting-video-scene-segmentation-and-classification
 Usage of Caffe:
+
 1.Prepare your datasets
 
 	1.1 Put your images in "my_data/train" and "my_data/val"
@@ -40,5 +41,8 @@ Usage of Caffe:
 	
 	4.3 Enter: ./build/tools/caffe train --solver=examples/my_task/bvlc_alexnet/solver.prototxt
 	
+For more details, see:
+http://www.cnblogs.com/taokongcn/p/4341371.html
+http://www.tqcto.com/article/internet/287.html
 
 To be continued...
