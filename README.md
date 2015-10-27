@@ -42,7 +42,9 @@ Usage of Caffe:
 	4.3 Enter: ./build/tools/caffe train --solver=examples/my_task/bvlc_alexnet/solver.prototxt
 	
 For more details, see:
+
 http://www.cnblogs.com/taokongcn/p/4341371.html
+
 http://www.tqcto.com/article/internet/287.html
 
 To be continued...
