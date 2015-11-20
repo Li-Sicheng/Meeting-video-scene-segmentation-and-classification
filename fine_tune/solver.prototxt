@@ -1,0 +1,14 @@
+net: "/home/lisicheng/CNN_tools/caffe/examples/my_task/fine_tune/train_val_origin.prototxt"
+test_iter: 100
+test_interval: 500
+base_lr: 0.001
+lr_policy: "step"
+gamma: 0.1
+stepsize: 10
+display: 20
+max_iter: 1000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 1000
+snapshot_prefix: "/home/lisicheng/CNN_tools/caffe/examples/my_task/fine_tune/alexnet_finetuned"
+solver_mode: GPU
