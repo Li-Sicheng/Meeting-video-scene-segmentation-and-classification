@@ -6,7 +6,7 @@ Finetune a net based on a pretrained caffemodel:
     
     solver.prototxt (defining parameters about training)
     
-    pretrained caffemodel (you should have the pretrained model in advance. Here shoud be AlexNet)
+    pretrained caffemodel (you should have the pretrained model in advance. Here should be AlexNet)
     
 2.Modify finetune.sh and run it.
 
