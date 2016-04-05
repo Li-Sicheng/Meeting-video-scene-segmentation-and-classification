@@ -29,7 +29,7 @@ Tips: Modify data layer (pathes of mean.binaryproto and file_list.txt), so you n
 
 5.Put these 3 scripts in &CAFFE_ROOT. Modify extract_feature.sh
 
-Tips: BATCHSIZE * BATCHNUM = the size of your images!!
+Tips: BATCHSIZE * BATCHNUM = the size of your images!!!
 
 
 
